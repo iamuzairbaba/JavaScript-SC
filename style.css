@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+div{
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: dimgray;
+    width: 50%;
+    margin: auto;
+}
+.button{
+    color: black;
+    border: none;
+    border-radius: 50%;
+    padding: 20px 25px;
+    margin: 5px;
+    font-size: 30px;
+}
+.num-button{
+    background-image: linear-gradient(to left, #292340, #ffffff);
+    
+}
+
+.op-button{
+    background-image: linear-gradient(to left, #ffffff, #f96d);
+    
+}
+.clr-button{
+    background-color: #f96d00;
+    
+}
+.display-calculation{
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    height: 50px;
+    color: white;
+    font-size: 30px;
+    padding-top: 20px;
+}
